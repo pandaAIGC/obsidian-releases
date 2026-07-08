@@ -38281,5 +38281,12 @@
     "author": "saiken",
     "description": "Find stale, orphaned, unfinished, and metadata-broken notes, then work through them with a focused review flow. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "israerusan/vault-triage"
+  },
+  {
+    "id": "obsidian-empty-trash",
+    "name": "Empty Trash",
+    "author": "pandaAIGC",
+    "description": "Empty Obsidian's local .trash folder with one command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pandaAIGC/obsidian-empty-trash"
   }
 ]
