@@ -38283,7 +38283,7 @@
     "repo": "israerusan/vault-triage"
   },
   {
-    "id": "obsidian-empty-trash",
+    "id": "empty-trash",
     "name": "Empty Trash",
     "author": "pandaAIGC",
     "description": "Empty Obsidian's local .trash folder in one click, without deleting items one by one. - This plugin has not been manually reviewed by Obsidian staff.",
