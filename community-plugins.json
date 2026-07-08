@@ -38286,7 +38286,7 @@
     "id": "obsidian-empty-trash",
     "name": "Empty Trash",
     "author": "pandaAIGC",
-    "description": "Empty Obsidian's local .trash folder with one command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Empty Obsidian's local .trash folder in one click, without deleting items one by one. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pandaAIGC/obsidian-empty-trash"
   }
 ]
